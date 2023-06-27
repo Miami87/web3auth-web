@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@walletconnect/qrcode-modal": "^1.7.8",
+    "@walletconnect/qrcode-modal": "^1.8.0",
     "@web3auth/base": "file:../../packages/base",
     "@web3auth/core": "file:../../packages/core",
     "@web3auth/openlogin-adapter": "file:../../packages/adapters/openlogin-adapter",
