@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@solana/web3.js": "^1.73.0",
-    "@taquito/signer": "^13.0.1",
-    "@taquito/taquito": "^13.0.1",
+    "@solana/web3.js": "^1.95.1",
+    "@taquito/signer": "^17.5.0",
+    "@taquito/taquito": "^17.5.0",
     "@taquito/utils": "^13.0.1",
     "@tezos-core-tools/crypto-utils": "^0.0.7",
     "@web3auth/base": "file:../../packages/base",
@@ -15,7 +15,7 @@
     "path-browserify": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "web3": "^1.8.1"
+    "web3": "^4.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
